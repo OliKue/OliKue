@@ -30,7 +30,7 @@ Hi, I'm Oliver,  a software engineer from Berlin who likes to develop things, so
 Social networks
 ---
 
-  <a href="https://www.linkedin.com/in/oliver-k%C3%BCtemeier-b83201173/">
+  <a href="https://www.linkedin.com/in/wolffoliver/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
