@@ -14,7 +14,7 @@ Hi, I'm Oliver,  a software engineer from Berlin who likes to develop things, so
 ----
 2023
 - [JsonCompare](https://github.com/OliKue/JsonCompare): Personal used Chrome extension to visualize and compare JSON files.
-- [leetcode](https://github.com/OliKue/leetcode): Started tracking LeetCode solutions.
+- [leetcode](): Started tracking LeetCode solutions. -- No longer maintained --
 - [fpinscala](https://github.com/OliKue/fpinscala): Repository to work through "the red book" (Functional Programming in Scala)
 
 ---- 
