@@ -7,8 +7,10 @@ Hi, I'm Oliver,  a software engineer from Berlin who likes to develop things, so
 
 👨‍💻 Some things I have been working on
 ----
+2025
+- [ShortQr](https://github.com/OliKue/shortqr): Combining URL shortener with QR code generation.
+
 2024
-- [ShortQr](https://github.com/OliKue/shortqr): Combining URL shortener with QR code generation. 
 - [RetroBashGames](https://github.com/OliKue/RetroBashGames): "Collection" of console-based retro games in python.
 
 ----
